@@ -17,4 +17,4 @@ Based on the table, there is an consitent trend. The trend is the huffman coding
 
 - **e.**
 
-
+If every character had the same frequency, expected cost of the huffman encoding for the document would be the same.Moreover, the cost of the huffman coding would also be about the same as the fixed length coding in that specific scenario. The cost of the document is based on the frequency of every letter. Therefore, it is consistent across all the documents if each character in all the documents had the same frequency.
